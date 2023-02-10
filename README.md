@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
 <h3 align="center">Apaixonado por programação no Brasil 🇧🇷</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
 <h3 align="left" dir="auto">Linguagens: </h3>
 
 <div style="display: inline_block">
