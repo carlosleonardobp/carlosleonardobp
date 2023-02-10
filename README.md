@@ -2,6 +2,9 @@
 <h3 align="center">Apaixonado por programação no Brasil 🇧🇷</h3>
 <div ><img align="right" alt="Bastos-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/85074809?v=4?width=676&height=676"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
+  
+  ##
+
 <h3 align="left" dir="auto">Linguagens: </h3>
 
 <div style="display: inline_block">
@@ -11,7 +14,9 @@
   <img align="center" alt="Bastos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div><br>
+  ##
+
+<div>
 <h3 align="left" dir="auto">Conecte-se comigo: </h3>
   
   <a href="https://www.youtube.com/@codebastos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -21,7 +26,9 @@
   <a href="https://www.linkedin.com/in/bastosclbp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div><br>
+  ##
+
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosclbp&layout=compact&locale=pt-br&theme=dark" />
 </a>
