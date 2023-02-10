@@ -32,6 +32,9 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosclbp&layout=compact&locale=pt-br&theme=dark" />
+  <img style="margin:5px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosclbp&layout=compact&locale=pt-br&theme=dark" />
 </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="margin:5px" align="center" src="https://github-readme-stats.vercel.app/api?username=bastosclbp&show_icons=true&theme=radical"/>
+  </a>
 </div>
