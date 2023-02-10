@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
 <h3 align="center">Apaixonado por programação no Brasil 🇧🇷</h3>
-<div ><img align="right" alt="Bastos-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/85074809?v=4?width=676&height=676"></div>
+<div ><img align="right" alt="Bastos-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/lBmWFri.jpg"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
   
   ##
