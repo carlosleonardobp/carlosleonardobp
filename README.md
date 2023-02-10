@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
 <h3 align="center">Apaixonado por programação <img style="margin:5px" align="center" height="50" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img><img style="margin:5px" align="center" height="50" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img></h3>
 
-<div ><img align="right" alt="Bastos-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/lBmWFri.jpg"></div>
+<div><img align="right" alt="Bastos-pic" height="150" src="https://i.imgur.com/lwG69eD.png"></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
   
   ##
