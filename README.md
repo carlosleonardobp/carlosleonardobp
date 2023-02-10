@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
 <h3 align="center">Apaixonado por programação no Brasil 🇧🇷</h3>
+<div ><img align="right" alt="Bastos-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/85074809?v=4?width=676&height=676"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
 <h3 align="left" dir="auto">Linguagens: </h3>
 
@@ -8,7 +9,6 @@
   <img align="center" alt="Bastos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bastos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bastos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Bastos-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/85074809?v=4?width=676&height=676">
 </div>
 
 <div><br>
