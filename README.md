@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
-<h3 align="center">Apaixonado por programação <img style="margin:5px" align="center" height="50" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img><img style="margin:5px" align="center" height="50" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img></h3>
+<h3 align="center">Software Developer<img style="margin:5px" align="center" height="50" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img><img style="margin:5px" align="center" height="50" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img></h3>
 
 <div><img align="right" alt="Bastos-pic" height="150" src="https://i.imgur.com/lwG69eD.png"></div>
 
