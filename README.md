@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Graduando Engenharia de Software</h3>
 <div align="center">
   <img height="50" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
   <img height="50" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img>
