@@ -21,6 +21,13 @@
     </div>
  </div>
 
+ <div>
+    <h3 align="left" dir="auto">Badge: </h3>
+    <div style="display: inline_block">
+      <img align="center" alt="Badge One" height="300" src="https://github.com/bastosclbp/bastosclbp/assets/85074809/5d66c881-e8b8-4490-8982-5f7a1be17929">
+    </div>
+ </div>
+
   ##
 <div>
   <h3 align="left" dir="auto">Conecte-se comigo: </h3>
