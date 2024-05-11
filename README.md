@@ -1,8 +1,11 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
 <h3 align="center">Graduando em Engenharia de Software</h3>
 <div align="center">
-  <img height="50" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
-  <img height="50" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img>
+  <img height="80" alt="Logo da Engenharia de Software" src="https://github.com/bastosclbp/bastosclbp/assets/85074809/e335fefa-9c27-4583-94f4-efc5ce212019"></img>
+</div>
+<div align="center">
+  <img height="50" alt="Bandeira do Brasil" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
+  <img height="50" alt="Bandeira do Rio de Janeiro" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img>
 </div>
 
 <div><img align="right" alt="Bastos-pic" height="150" src="https://i.imgur.com/lwG69eD.png"></div>
@@ -18,7 +21,7 @@
       <img align="center" alt="Bastos-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
       <img align="center" alt="Bastos-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="Bastos-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-      <img align="center" alt="Bastos-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img align="center" alt="Bastos-JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     </div>
  </div>
 
