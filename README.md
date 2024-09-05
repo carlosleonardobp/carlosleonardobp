@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
 <h3 align="center">Graduando em Engenharia de Software</h3>
 <div align="center">
-  <img height="80" alt="Logo da Engenharia de Software" src="https://github.com/bastosclbp/bastosclbp/assets/85074809/e335fefa-9c27-4583-94f4-efc5ce212019"></img>
+  <img height="80" alt="Logo da Engenharia de Software" src="https://github.com/user-attachments/assets/894b663a-1176-4823-b9ee-89cfd68ceefb"></img>
 </div>
 <div align="center">
   <img height="50" alt="Bandeira do Brasil" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
