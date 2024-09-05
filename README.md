@@ -16,12 +16,10 @@
 <div>
     <h3 align="left" dir="auto">Linguagens: </h3>
     <div style="display: inline_block">
-      <img align="center" alt="Bastos-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-      <img align="center" alt="Bastos-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Bastos-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Bastos-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Bastos-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+      <img align="center" alt="Bastos-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+      <img align="center" alt="Bastos-JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="Bastos-JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img align="center" alt="Bastos-TS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     </div>
  </div>
 
