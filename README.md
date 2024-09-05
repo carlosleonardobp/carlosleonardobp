@@ -13,6 +13,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
   
   ##
+  <div>
+    <h3 align="left" dir="auto">About me </h3>
+    <p>I'm 28 years old, and I am a passionate Back-end development enthusiast. I am continuously enhancing my skills in programming languages such as Java, Python, and JavaScript, as well as frameworks like Spring, Django, and React.</p>
+ </div>
 <div>
     <h3 align="left" dir="auto">Programming Languages </h3>
     <div style="display: inline_block">
