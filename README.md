@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Carlos Leonardo</h1>
-<h3 align="center">Graduando em Engenharia de Software</h3>
+<h1 align="center">Hello 👋, my name is Carlos Leonardo</h1>
+<h3 align="center">Software Engineer</h3>
 <div align="center">
   <img height="100" alt="Logo da Engenharia de Software" src="https://github.com/user-attachments/assets/bb86416c-fdc5-4dff-ba44-df587aa69f66"></img>
 </div>
@@ -14,7 +14,7 @@
   
   ##
 <div>
-    <h3 align="left" dir="auto">Linguagens: </h3>
+    <h3 align="left" dir="auto">Programming Languages </h3>
     <div style="display: inline_block">
       <img align="center" alt="Bastos-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
       <img align="center" alt="Bastos-JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -24,7 +24,7 @@
  </div>
 
  <div>
-    <h3 align="left" dir="auto">Badge: </h3>
+    <h3 align="left" dir="auto">Badge </h3>
     <div style="display: inline_block">
       <img align="center" alt="Badge One" height="300" src="https://github.com/bastosclbp/bastosclbp/assets/85074809/5d66c881-e8b8-4490-8982-5f7a1be17929">
     </div>
@@ -32,7 +32,7 @@
 
   ##
 <div>
-  <h3 align="left" dir="auto">Conecte-se comigo: </h3>
+  <h3 align="left" dir="auto">Connect with me </h3>
   <a href="https://www.youtube.com/@bastosclbp/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bastosclbp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-leonardo-es" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
