@@ -26,10 +26,10 @@ In his free time, you can find him researching the latest innovations in the aut
 <div>
     <h3 align="left" dir="auto">Programming Languages </h3>
     <div style="display: inline_block">
-      <img align="center" alt="Bastos-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-      <img align="center" alt="Bastos-JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Bastos-JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-      <img align="center" alt="Bastos-TS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Capa Linguagem Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+      <img align="center" alt="Capa Linguagem JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img align="center" alt="Capa Linguagem JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img align="center" alt="Capa Linguagem TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     </div>
  </div>
 
