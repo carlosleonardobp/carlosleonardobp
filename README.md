@@ -15,7 +15,13 @@
   ##
   <div>
     <h3 align="left" dir="auto">About me </h3>
-    <p>I'm 28 years old, and I am a passionate Back-end development enthusiast. I am continuously enhancing my skills in programming languages such as Java, Python, and JavaScript, as well as frameworks like Spring, Django, and React.</p>
+    <p>Carlos Leonardo is passionate about technology and automotive vehicles, born and raised in the vibrant streets of Rio de Janeiro. At 27 years old, he is a tireless enthusiast of cars, motorcycles, and everything related to hardware, software, programming, and electronics.
+
+With a remarkable background, Carlos served in the military for eight years, where he developed discipline, resilience, and a strong sense of responsibility. However, his passion for technology and the world of vehicles has always driven him to explore new horizons.
+
+Currently self-employed, Carlos is seeking to combine his military expertise with his technical skills to explore opportunities in the market. Whether working on programming projects, developing hardware solutions, or diving into the complexities of electronics, he is always ready to face challenges and push boundaries.
+
+In his free time, you can find him researching the latest innovations in the automotive world, experimenting with new software, or refining his programming skills. His thirst for knowledge and passion for learning continue to fuel his journey as he constantly seeks new ways to innovate and grow in his career and hobbies.</p>
  </div>
 <div>
     <h3 align="left" dir="auto">Programming Languages </h3>
