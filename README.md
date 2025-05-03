@@ -26,10 +26,20 @@ In his free time, you can find him researching the latest innovations in the aut
 <div>
     <h3 align="left" dir="auto">Programming Languages </h3>
     <div style="display: inline_block">
-      <img align="center" alt="Capa Linguagem Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+      <img align="center" alt="Capa Linguagem HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Capa Linguagem CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
       <img align="center" alt="Capa Linguagem JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Capa Linguagem JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
       <img align="center" alt="Capa Linguagem TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Capa Linguagem Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+      <img align="center" alt="Capa Linguagem Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img align="center" alt="Capa Linguagem Visual Studio Code" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+      <img align="center" alt="Capa Linguagem Sass" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+      <img align="center" alt="Capa Linguagem Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Capa Linguagem React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <img align="center" alt="Capa Linguagem Next" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+      <img align="center" alt="Capa Linguagem NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+      <img align="center" alt="Capa Linguagem MongoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+      <img align="center" alt="Capa Linguagem SQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
     </div>
  </div>
 
