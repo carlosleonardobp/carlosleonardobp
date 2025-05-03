@@ -36,9 +36,9 @@ In his free time, you can find him researching the latest innovations in the aut
       <img align="center" alt="Capa Linguagem Sass" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
       <img align="center" alt="Capa Linguagem Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
       <img align="center" alt="Capa Linguagem React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-      <img align="center" alt="Capa Linguagem Next" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-      <img align="center" alt="Capa Linguagem NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="Capa Linguagem MongoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+      <img align="center" alt="Capa Linguagem Next" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+      <img align="center" alt="Capa Linguagem NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="Capa Linguagem MongoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
       <img align="center" alt="Capa Linguagem SQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
     </div>
  </div>
