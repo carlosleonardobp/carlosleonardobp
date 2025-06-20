@@ -15,7 +15,7 @@
   ##
   <div>
     <h3 align="left" dir="auto">About me </h3>
-    <p>Carlos Leonardo is passionate about technology and automotive vehicles, born and raised in the vibrant streets of Rio de Janeiro. At <!-- idade -->29<!-- /idade --> years old, he is a tireless enthusiast of cars, motorcycles, and everything related to hardware, software, programming, and electronics.
+    <p>Carlos Leonardo is passionate about technology and automotive vehicles, born and raised in the vibrant streets of Rio de Janeiro. At <!-- idade -->28<!-- /idade --> years old, he is a tireless enthusiast of cars, motorcycles, and everything related to hardware, software, programming, and electronics.
 
 With a remarkable background, Carlos served in the military for eight years, where he developed discipline, resilience, and a strong sense of responsibility. However, his passion for technology and the world of vehicles has always driven him to explore new horizons.
 
