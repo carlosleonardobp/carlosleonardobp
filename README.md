@@ -1,14 +1,14 @@
 <h1 align="center">Hello! I'm Carlos Leonardo</h1>
 <h3 align="center">Software Engineer</h3>
 <div align="center">
-  <img height="100" alt="Logo da Engenharia de Software" src="https://github.com/user-attachments/assets/bb86416c-fdc5-4dff-ba44-df587aa69f66"></img>
+  <img height="100" width="100" alt="Logo da Engenharia de Software" src="https://github.com/user-attachments/assets/bb86416c-fdc5-4dff-ba44-df587aa69f66"></img>
 </div>
 <div align="center">
-  <img height="50" alt="Bandeira do Brasil" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
-  <img height="50" alt="Bandeira do Rio de Janeiro" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img>
+  <img height="50" width="50" alt="Bandeira do Brasil" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
+  <img height="50" width="56" alt="Bandeira do Rio de Janeiro" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img>
 </div>
 
-<div><img align="right" alt="Bastos-pic" height="150" src="https://i.imgur.com/lwG69eD.png"></div>
+<div><img align="right" alt="Bastos-pic" height="150" width="200" src="https://i.imgur.com/lwG69eD.png"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
   
