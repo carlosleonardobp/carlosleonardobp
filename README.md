@@ -8,11 +8,50 @@
   <img height="50" width="56" alt="Bandeira do Rio de Janeiro" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_de_janeiro.png"></img>
 </div>
 
-<div><img align="right" alt="Bastos-pic" height="150" width="200" src="https://i.imgur.com/lwG69eD.png"></div>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/a2ngni.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@leoclbp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/bastosclbp/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bastosclbp/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
-  
-  ##
+
+##
+
   <div>
     <h3 align="left" dir="auto">About me </h3>
     <p>Carlos Leonardo is passionate about technology and automotive vehicles, born and raised in the vibrant streets of Rio de Janeiro. At <!-- idade -->29<!-- /idade --> years old, he is a tireless enthusiast of cars, motorcycles, and everything related to hardware, software, programming, and electronics.
@@ -22,26 +61,6 @@ With a remarkable background, Carlos served in the military for eight years, whe
 Currently self-employed, Carlos is seeking to combine his military expertise with his technical skills to explore opportunities in the market. Whether working on programming projects, developing hardware solutions, or diving into the complexities of electronics, he is always ready to face challenges and push boundaries.
 
 In his free time, you can find him researching the latest innovations in the automotive world, experimenting with new software, or refining his programming skills. His thirst for knowledge and passion for learning continue to fuel his journey as he constantly seeks new ways to innovate and grow in his career and hobbies.</p>
- </div>
-<div>
-    <h3 align="left" dir="auto">Programming Languages </h3>
-    <div style="display: inline_block">
-      <img align="center" alt="Capa Linguagem HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Capa Linguagem CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Capa Linguagem JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Capa Linguagem TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-      <img align="center" alt="Capa Linguagem Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-      <img align="center" alt="Capa Linguagem Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-      <img align="center" alt="Capa Linguagem Visual Studio Code" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-      <img align="center" alt="Capa Linguagem Sass" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-      <img align="center" alt="Capa Linguagem Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Capa Linguagem React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-      <img align="center" alt="Capa Linguagem Next" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-      <img align="center" alt="Capa Linguagem NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-      <img align="center" alt="Capa Linguagem MongoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-      <img align="center" alt="Capa Linguagem SQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
-    </div>
- </div>
 
  <div>
     <h3 align="left" dir="auto">Badge </h3>
@@ -50,20 +69,15 @@ In his free time, you can find him researching the latest innovations in the aut
     </div>
  </div>
 
-  ##
-<div>
-  <h3 align="left" dir="auto">Connect with me </h3>
-  <a href="https://www.youtube.com/@bastosclbp/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/bastosclbp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-leonardo-es" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bastosclbp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastosclbp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  ##
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosclbp&layout=compact&locale=pt-br&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bastosclbp&show_icons=true&theme=radical"/>
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bastosclbp/bastosclbp/output/snake.svg" alt="Snake animation" />
+
+###
