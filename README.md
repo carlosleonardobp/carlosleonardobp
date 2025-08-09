@@ -78,6 +78,6 @@ In his free time, you can find him researching the latest innovations in the aut
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bastosclbp/bastosclbp/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/bastosclbp/bastosclbp/blob/output/github-contribution-grid-snake.svg)
 
 ###
