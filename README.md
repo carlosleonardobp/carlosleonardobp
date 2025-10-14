@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Carlos Leonardo</h1>
+<h1 align="center">Hello, I'm Carlos Leonardo 👋</h1>
 <h3 align="center">Software Engineer</h3>
 <div align="center">
   <img height="100" width="100" alt="Logo da Engenharia de Software" src="https://github.com/user-attachments/assets/bb86416c-fdc5-4dff-ba44-df587aa69f66"></img>
