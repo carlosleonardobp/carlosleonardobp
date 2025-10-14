@@ -35,20 +35,20 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@bastosclbp" target="_blank">
+  <a href="https://www.youtube.com/@carlos.leonardo-bp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/bastosclbp/" target="_blank">
+  <a href="https://www.instagram.com/carlos.leonardo.bp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/bastosclbp/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-leonardo-bp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bastosclbp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="bastosclbp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-leonardo-bp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="carlos-leonardo-bp" /> </p>
 
 ##
 
@@ -65,7 +65,7 @@ In his free time, you can find him researching the latest innovations in the aut
  <div>
     <h3 align="left" dir="auto">Badge </h3>
     <div style="display: inline_block">
-      <img align="center" alt="Badge One" height="300" src="https://github.com/bastosclbp/bastosclbp/assets/85074809/5d66c881-e8b8-4490-8982-5f7a1be17929">
+      <img align="center" alt="Badge One" height="300" src="https://github.com/carlos-leonardo-bp/carlos-leonardo-bp/assets/85074809/5d66c881-e8b8-4490-8982-5f7a1be17929">
     </div>
  </div>
 
