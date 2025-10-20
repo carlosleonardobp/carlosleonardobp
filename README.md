@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Carlos Leonardo 👋</h1>
 <h3 align="center">Software Engineer</h3>
 <div align="center">
-  <img height="100" width="100" alt="Logo da Engenharia de Software" src=".github/badge-one.png"></img>
+  <img height="100" width="100" alt="Logo da Engenharia de Software" src=".github/logo-engenharia-de-software.png"></img>
 </div>
 <div align="center">
   <img height="50" width="50" alt="Bandeira do Brasil" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
