@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Carlos Leonardo 👋</h1>
 <h3 align="center">Software Engineer</h3>
 <div align="center">
-  <img height="100" width="100" alt="Logo da Engenharia de Software" src="https://github.com/user-attachments/assets/bb86416c-fdc5-4dff-ba44-df587aa69f66"></img>
+  <img height="100" width="100" alt="Logo da Engenharia de Software" src=".github/.github/badge-one.png"></img>
 </div>
 <div align="center">
   <img height="50" width="50" alt="Bandeira do Brasil" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png"></img>
@@ -67,15 +67,15 @@ In his free time, you can find him researching the latest innovations in the aut
  <div>
     <h3 align="left" dir="auto">Badge </h3>
     <div style="display: inline_block">
-      <img align="center" alt="Badge One" height="300" src="https://github.com/carlos-leonardo-bp/carlos-leonardo-bp/assets/85074809/5d66c881-e8b8-4490-8982-5f7a1be17929">
+      <img align="center" alt="Badge One" width="300" src=".github/badge-one.png">
     </div>
  </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bastosclbp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastosclbp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosleonardobp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosleonardobp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
