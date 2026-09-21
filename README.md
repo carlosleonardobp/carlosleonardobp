@@ -34,7 +34,7 @@
 
 ###
 
-<!--
+
 <div align="left">
   <a href="https://www.instagram.com/carlosleonardobp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
--->
+
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-leonardo-bp&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=1c78b2&style=flat" alt="carlos-leonardo-bp" /> </p>
